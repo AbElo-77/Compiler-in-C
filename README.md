@@ -55,9 +55,10 @@ make
 ```
 
 ### Compile
-./mycc examples/hello.myc -o out.c
+```bash ./mycc examples/hello.myc -o out.c
 gcc out.c -o hello
 ./hello
+```
 
 ## Contributions 
 
